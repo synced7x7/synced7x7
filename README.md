@@ -27,25 +27,26 @@
 
 <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,cpp,c" />
 
-<br><br>
+
+
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
 
-<br><br>
+
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-<br><br>
+
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite" />
 
-<br><br>
+
 
 ### Machine Learning
 
