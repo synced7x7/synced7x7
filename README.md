@@ -32,7 +32,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 
 
@@ -54,6 +54,16 @@
 
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,numpy,pandas" />
+
+### Libraries & Engines
+
+<img src="https://skillicons.dev/icons?i=threejs" />
+
+<img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_128x128.png" width="48" title="raylib" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="48" title="SDL2" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" title="Unity" />
 
 ### Tools & Deployment
 
