@@ -24,50 +24,52 @@
 <div align="center">
 
 ### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,cpp,c" />
-
-
-
+<img src="https://skillicons.dev/icons?i=java" width="48" title="Java" />
+<img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" />
+<img src="https://skillicons.dev/icons?i=python" width="48" title="Python" />
+<img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" />
+<img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
 
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-
+<img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" />
 
 ### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-
+<img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" width="48" title="Express" />
 
 ### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite" />
-
-
+<img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=supabase" width="48" title="Supabase" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" title="SQLite" />
 
 ### Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=python" width="48" title="Python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="48" title="scikit-learn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="48" title="NumPy" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="48" title="Pandas" />
 
 ### Libraries & Engines
-
-<img src="https://skillicons.dev/icons?i=threejs" />
-
+<img src="https://skillicons.dev/icons?i=threejs" width="48" title="Three.js" />
 <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_128x128.png" width="48" title="raylib" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="48" title="SDL2" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" title="Unity" />
 
 ### Tools & Deployment
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,maven,vercel,render" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" title="Git" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="48" title="GitHub" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="48" title="Postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=maven" width="48" title="Maven" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="48" title="Vercel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="48" title="Render" />
 
 </div>
 
