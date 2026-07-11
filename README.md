@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
 <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" />
 <img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=framer" title="Framer Motion" />
+
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
@@ -39,6 +39,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
 <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=framer" title="Framer Motion" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring" />
