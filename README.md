@@ -35,6 +35,7 @@
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vite" title="Vite" />
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
 <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" />
