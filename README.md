@@ -31,6 +31,7 @@
 <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
 <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" />
 <img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=framer" title="Framer Motion" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
