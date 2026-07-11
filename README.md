@@ -62,6 +62,7 @@
 <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_128x128.png" width="48" title="raylib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="48" title="SDL2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" title="Unity" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" title="Blender"/>
 
 ### Tools & Deployment
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" title="Git" />
