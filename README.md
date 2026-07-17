@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **synced7x7**
+# Hi, I'm **a lost soul**
 
 ### Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
