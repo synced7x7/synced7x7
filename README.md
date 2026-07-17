@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **a lost soul**
+# **A LOST SOUL**
 
 ### Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
