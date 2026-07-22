@@ -46,7 +46,6 @@
 <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring" />
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
 <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48"/>
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" />
@@ -67,8 +66,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="48" title="SDL2" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" title="Unity" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" title="Blender"/>
+ <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="120" title="JavaFX" />
 
 ### Tools & Deployment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" title="Git" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="48" title="GitHub" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="48" title="Postman" />
